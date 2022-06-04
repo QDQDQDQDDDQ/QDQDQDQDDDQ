@@ -1,0 +1,6 @@
+-> help (view all commands)
+-> plookup <firstnaim> <lastnaim> (search phone and adresse by name)
+-> ulookup <username> (search information by ursername)
+-> iplookup <ip> (search information by ip)
+-> maclookup <mac/bssid> (localize mac or bissid adress if it is in the database)
+-> phonelookup <number> get country,service,type)
